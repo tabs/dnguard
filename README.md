@@ -21,3 +21,7 @@ Version 4.6.0 (September 25, 2023)
 
 [*] Engine Performance improvement.
 
+
+DNGuard Enterprise (with HVM Technology)
+
+I bought DNGuard Enterprise (with HVM Technology), the latest version, need friends can contact me to make the "crack me" free experience address: https://xiaoluo.chaego.top
