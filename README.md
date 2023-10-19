@@ -6,10 +6,18 @@ DNGuard HVM is a .NET obfuscator and a .NET code protection tool that offers pro
 last update
 
 Version 4.6.0 (September 25, 2023)
+
 [+] Add support for .Net8 RC1.
+
 [+] Add support for packaging native DLL files. [ApplicationMode]
+
 [+] Add support for packaging data files. [ApplicationMode]
+
 [*] Fixed SEH issue for some special assemblies.
+
 [*] Improved HVM2 Engine.
+
 [*] Engine internal changes.
+
 [*] Engine Performance improvement.
+
