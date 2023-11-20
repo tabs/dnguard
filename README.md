@@ -1,4 +1,4 @@
-# dnguard
+# dnguard Cracked Edition Learning Edition Permanent Edition
 A very powerful .net encryption tool
 DNGuard HVM - Advanced .NET Code Protection and Obfuscation Technology
 DNGuard HVM is a .NET obfuscator and a .NET code protection tool that offers protection against reverse engineering of your code. This tool implements a unique code protection technology that blocks attackers from utilizing advanced code tampering techniques such as dumping assembly contents from in-memory, catching methodbody from JIT-compilation .
@@ -28,3 +28,4 @@ DNGuard Enterprise (with HVM Technology)
 
 I bought DNGuard Enterprise (with HVM Technology), the latest version,Anyone can experience it for free.
 experience address: https://xiaoluo.chaego.top
+PC client download address: https://chaego.lanzouy.com/b023ijpsb password is 1234
