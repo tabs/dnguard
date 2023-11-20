@@ -1,6 +1,6 @@
 # dnguard Cracked Edition Learning Edition Permanent Edition
 
-[点我查看中文介绍](https://github.com/tabs/dnguard/blob/a4a0a1124af1bb873ea1cd4c3fe280d6daa77dd5/README_CN.md)
+[点我查看中文介绍](https://github.com/tabs/dnguard/blob/575170f83a1627711118816b58f28a82b145fbd5/README_CN.md)
 
 A very powerful .net encryption tool
 DNGuard HVM - Advanced .NET Code Protection and Obfuscation Technology
