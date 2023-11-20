@@ -27,5 +27,7 @@ DNGuard HVM是一个。net混淆器和。net代码保护工具，可以防止代
 DNGuard企业(与HVM技术合作)
 
 我买了最新版本的DNGuard Enterprise(使用HVM Technology)，任何人都可以免费体验。
-加密地址:https://xiaoluo.chaego.top
+
+在线加密地址:https://xiaoluo.chaego.top
+
 PC客户端下载地址：https://chaego.lanzouy.com/b023ijpsb  密码1234
